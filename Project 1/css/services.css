@@ -1,0 +1,309 @@
+.services-text{
+    position: absolute;
+    width: 386px;
+    height: 68px;
+    left: 563px;
+    top: 675px;
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 61px;
+    text-align: center;
+    color: #000000;
+}
+.box-container1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 340px;
+    height: 480px;
+    left: 120px;
+    top: 805px;
+    background: #BBD1F1;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.box-container2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 340px;
+    height: 480px;
+    left: 1100px;
+    top: 805px;
+    background: #BBD1F1;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.box-container3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 340px;
+    height: 480px;
+    left: 600px;
+    top: 1050px;
+    background: #BBD1F1;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.box-container4{
+    box-sizing: border-box;
+    position: absolute;
+    width: 340px;
+    height: 480px;
+    left: 120px;
+    top: 1400px;
+    background: #BBD1F1;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.box-container5{
+    box-sizing: border-box;
+    position: absolute;
+    width: 340px;
+    height: 480px;
+    left: 1100px;
+    top: 1400px;
+    background: #BBD1F1;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+.paw-icon{
+    position: absolute;
+width: 61.01px;
+height: 56.09px;
+left: 1233px;
+top: 818px;
+}
+.pet-wellness-plan{
+    position: absolute;
+    width: 345px;
+    height: 38px;
+    left: 1100px;
+    top: 882px;
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: center;
+    color: #004AAD;
+}
+.pet-wellness-plan-desc{
+    position: absolute;
+    width: 310px;
+    height: 280px;
+    left: 1115px;
+    top: 930px;
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.pet-wellness-plan-price{
+    position: absolute;
+width: 140px;
+height: 33px;
+left: 1190px;
+top: 1240px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 33px;
+
+text-align: center;
+
+color: #004AAD;
+}
+.steto-icon{
+    position: absolute;
+    width: 70px;
+    height: 67px;
+    left: 253px;
+    top: 818px;
+}
+.veterinary-care{
+    position: absolute;
+width: 345px;
+height: 38px;
+left: 122px;
+top: 882px;
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+color: #004AAD;
+}
+.veterinary-care-desc{
+    position: absolute;
+width: 310px;
+height: 283px;
+left: 150px;
+top: 930px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 33px;
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.hospital-icon{
+    position: absolute;
+    width: 53.5px;
+    height: 50.4px;
+    left: 736px;
+    top: 1075px;
+}
+.get-care{
+    position: absolute;
+    width: 345px;
+    height: 38px;
+    left: 594px;
+    top: 1130px;
+    z-index: 1;
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #004AAD;
+}
+.get-care-desc{
+    position: absolute;
+    width: 310px;
+    height: 213px;
+    left: 610px;
+    top: 1180px;
+    z-index: 2;
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+.get-care-button{
+    position: absolute;
+    width: 197px;
+    height: 38px;
+    left: 652px;
+    top: 918px;
+    z-index: 3;
+    background: #D9D9D9;
+    border-radius: 45px;
+    position: absolute;
+    width: 168px;
+    height: 34px;
+    left: 682px;
+    top: 1450px;
+
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #000000; 
+}
+.get-care-button-cadre{
+    position: absolute;
+    width: 231px;
+    height: 55px;
+    left: 650px;
+    top: 1440px;
+    z-index: 3;
+    background: #004AAD;
+    border-radius: 45px;
+}
+.medical-cross-icon{
+    position: absolute;
+    width: 50px;
+    height: 48px;
+    left: 263px;
+    top: 1420px;
+}
+.emergency-service{
+    position: absolute;
+    width: 345px;
+height: 38px;
+left: 123px;
+top: 1473px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+
+color: #004AAD;
+}
+.emergency-service-desc{
+    position: absolute;
+width: 310px;
+height: 275px;
+left: 132px;
+top: 1530px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}
+.house-icon{
+    position: absolute;
+    width: 50px;
+    height: 56px;
+    left: 1240px;
+    top: 1420px;
+    
+}
+.adopt-pet{
+    position: absolute;
+width: 345px;
+height: 38px;
+left: 1095px;
+top: 1473px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 44px;
+text-align: center;
+color: #004AAD;
+}
+.adopt-pet-desc{
+    position: absolute;
+width: 310px;
+height: 293px;
+left: 1115px;
+top: 1530px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #000000;
+}

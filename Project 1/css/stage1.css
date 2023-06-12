@@ -1,0 +1,383 @@
+.elem1{
+/* Frame 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 653px;
+top: 165px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border: 3px solid #99D9E3;
+border-radius: 45px;
+}
+.elem2{
+/* Frame 4 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 14px;
+left: 660px;
+top: 171px;
+
+background: #99D9E3;
+mix-blend-mode: normal;
+border: 1px solid #FFFFFF;
+border-radius: 60px;
+}
+.elem3{
+/* Frame 3 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 825px;
+top: 165px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border: 3px solid #000000;
+border-radius: 45px;
+}
+.elem4{
+/* Frame 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 739px;
+top: 165px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border: 3px solid #000000;
+border-radius: 45px;
+}
+.line1{
+/* Line 1 */
+
+
+position: absolute;
+width: 60px;
+height: 0px;
+left: 679px;
+top: 175px;
+
+border: 2px solid #000000;
+}
+
+/* Line 2 */
+
+.line2{
+position: absolute;
+width: 60px;
+height: 0px;
+left: 765px;
+top: 175px;
+
+background: #000000;
+border: 2px solid #000000;
+}
+.ma{
+    position: absolute;
+width: 320px;
+height: 80px;
+left: 600px;
+top: 230px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #004AAD;
+}
+.question1{
+    position: absolute;
+width: 700px;
+height: 67px;
+left: 432px;
+top: 280px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #000000;
+
+}
+.no-case{
+    position: absolute;
+width: 251px;
+height: 67px;
+left: 458px;
+top: 375px;
+
+background: #004AAD;
+}
+.button-no{
+    position: absolute;
+width: 201px;
+height: 43px;
+left: 25px;
+top: 12px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+background-color: #004AAD;
+color: #FFFFFF;
+}
+.yes-case{
+    position: absolute;
+width: 251px;
+height: 67px;
+left: 795px;
+top: 375px;
+
+background: #004AAD;
+}
+.button-yes{
+    position: absolute;
+    width: 215px;
+    height: 42px;
+    left: 15px;
+    top: 12px;
+    
+    font-family: 'Dosis';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #004AAD;
+}
+.big-frame{
+    box-sizing: border-box;
+
+position: absolute;
+width: 894px;
+height: 935px;
+left: 315px;
+top: 510px;
+
+background: #FFFFFF;
+border: 2px solid #585050;
+}
+.pet-ask{
+    position: absolute;
+width: 390px;
+height: 56px;
+left: 266px;
+top: 21px;
+text-align: center;
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #000000;
+
+}
+.dog-cat{
+
+position: absolute;
+width: 300px;
+height: 150px;
+left: 310px;
+top: 77px;
+
+}
+.pet-not-shown{
+    position: absolute;
+width: 309px;
+height: 22px;
+left: 310px;
+top: 245px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 32px;
+text-align: center;
+text-decoration-line: underline;
+color: #004AAD;
+}
+.pet-name{
+    position: absolute;
+width: 178px;
+height: 29px;
+left: calc(50% - 178px/2 - 84px);
+top: 312px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}
+.form-control{
+    box-sizing: border-box;
+
+position: absolute;
+width: 311px;
+height: 41px;
+left: calc(50% - 311px/2 - 0.5px);
+top: 363px;
+
+border: 3px solid #827C7C;
+}
+.pet-gender{
+    position: absolute;
+width: 178px;
+height: 29px;
+left: 274px;
+top: 425px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.form-control2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 311px;
+height: 41px;
+left: calc(50% - 311px/2 + 0.5px);
+top: 465px;
+
+border: 3px solid #827C7C;
+}
+.bar{
+    position: absolute;
+width: 354px;
+height: 0px;
+left: calc(50% - 354px/2 + 0px);
+top: 534px;
+
+border: 3px solid #827C7C;
+transform: rotate(0.16deg);
+}
+.reson-visit{
+    position: absolute;
+width: 293px;
+height: 48px;
+left: calc(50% - 293px/2 + 0.5px);
+top: 550px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 38px;
+
+color: #000000;
+
+}
+.form-control3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 311px;
+height: 41px;
+left: calc(50% - 311px/2 + 0.5px);
+top: 599px;
+
+border: 3px solid #827C7C;
+}
+.notes{
+    position: absolute;
+width: 280px;
+height: 23px;
+left: 290px;
+top: 663px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+
+color: #000000;
+}
+.form-control4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 309px;
+height: 95px;
+left: 294px;
+top: 698px;
+
+background: #FFFFFF;
+border: 3px solid #827C7C;
+}
+.next-btn {
+    position: absolute;
+    width: 173px;
+    height: 52px;
+    left: 357px;
+    top: 822px;
+    background: #004AAD;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+.next-text{
+    position: absolute;
+width: 130px;
+height: 50px;
+left: 23px;
+top: 2px;
+
+font-family: 'Dosis';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+background-color: #004AAD;
+color: #FFFFFF;
+}

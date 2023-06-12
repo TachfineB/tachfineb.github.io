@@ -1,0 +1,147 @@
+.calendar-box {
+    box-sizing: border-box;
+    position: absolute;
+    width: auto;
+    left: 268px;
+    top: 103px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  .choose-date {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .small-calendar {
+    position: relative;
+  }
+  
+  .form-control5 {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Styling the calendar popup */
+  .ui-datepicker {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .ui-datepicker-header {
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .ui-datepicker-title {
+    font-weight: bold;
+  }
+  
+  .ui-datepicker-prev::before {
+    content: "<< ";
+  }
+  
+  .ui-datepicker-next::after {
+    content: " >>";
+  }
+  
+  .ui-datepicker-calendar {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .ui-datepicker-calendar th {
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .ui-datepicker-calendar td {
+    padding: 5px;
+    text-align: center;
+  }
+  
+  .ui-datepicker-calendar .ui-state-default {
+    cursor: pointer;
+    border-radius: 50%;
+    padding: 8px;
+  }
+  
+  .ui-datepicker-calendar .ui-state-hover {
+    background-color: #eaf3fd;
+  }
+  
+  .ui-datepicker-calendar .ui-state-active {
+    background-color: #1b9bff;
+    color: #fff;
+  }
+  .input-container {
+    position: relative;
+    margin-top: 75px; /* Adjust the distance between the inputs and the box */
+    margin-left: 80px;
+  
+
+  }
+  
+  .input-label {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  .input-container.name {
+    margin-top: 300px; /* Adjust the distance between the inputs and the box */
+  }
+  
+  
+  .input-field {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+.input-lineq{
+    width: 311px;
+height: 41px;
+left: calc(50% - 311px/2 - 14.5px);
+top: 951px;
+}  
+.next-button1 {
+        position: absolute;
+        width: 173px;
+        height: 52px;
+        left: 280px;
+        top: 600px;
+        background: #004AAD;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+
+.next-button2 {
+    position: absolute;
+    width: 173px;
+    height: 52px;
+    left: 360px;
+    top: 820px;
+    background: #004AAD;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+ }
+
+  
+  
